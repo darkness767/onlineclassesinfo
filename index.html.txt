@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title> Online classes info </title>
+
+</head>
+
+    <body> 
+        <b> <font size='5'> <center> <div style="color:blue"> RAJUK UTTARA MODEL COLLEGE </div>
+
+        
+        Business Studies - XII (B)
+ <font size='4'> <br> BM-DS  </p>
+        <p align="left">  <u> ROUTINE: </u> </p>
+            
+            
+            <img src="class routine.png"> </img>
+            
+        <br>
+            
+            <p align="left">  <u> ZOOM ID AND PASSWORD: </u> </p>
+            
+            <table border="1">
+                <tr><th>SL.NO.</th>
+                    <th>TEACHER</th>
+                    <th>SUBJECT</th>
+                    <th>ZOOM ID</th>
+                    <th>PASSWORD</th>
+                </tr>
+                <tr>
+                    <th>1</th>
+                    <th>SAJ</th>
+                    <th rowspan="3">BANG</th>
+                    <th>7346962109</th>
+                    <th>saj@rumc</th>
+                </tr>
+                <tr>
+                    <th>2</th>
+                    <th>
+                    SUD</th>
+                    <th>8695519051</th>
+                    <th>sud@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>3</th>
+                    <th>
+                   JFS</th>
+                    <th>7523566386</th>
+                    <th>jfs@rumc</th>
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>4</th>
+                    <th>
+                    MZR</th>
+                    <th rowspan="3">ENG</th>
+                    <th>7539954388</th>
+                    <th>mzr@rumc</th>
+                
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>5</th>
+                    <th>
+                    SDI</th>
+                    <th>2368232378</th>
+                    <th>sdi@rumc</th>
+                
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>6</th>
+                    <th>
+                    MZH</th>
+                    <th>2126734747</th>
+                    <th>mzh@rumc</th>
+                
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>7</th>
+                    <th>
+                    KZ</th>
+                    <th rowspan="2">ICT</th>
+                    <th>9770773972</th>
+                    <th>kz@rumc</th>
+                
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>8</th>
+                    <th>
+                    SI(D)</th>
+                    <th>3404681177</th>
+                    <th>sid@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>9</th>
+                    <th>
+                    MMR</th>
+                    <th rowspan="2">ACC</th>
+                    <th>5261707520</th>
+                    <th>mmrd@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>10</th>
+                    <th>
+                    AFA</th>
+                    <th>4168795784</th>
+                    <th>afa@rumc</th>
+                
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>11</th>
+                    <th>
+                    JHC</th>
+                    <th rowspan="2">BOM</th>
+                    <th>7126746070</th>
+                    <th>jhc@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>12</th>
+                    <th>
+                    SKN</th>
+                    <th>8901447412</th>
+                    <th>skn@rumc</th>
+                
+                
+                
+                </tr>
+                
+                <tr>
+                    <th>13</th>
+                    <th>
+                    ZA</th>
+                    <th>FBI</th>
+                    <th>9233301003</th>
+                    <th>za@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>14</th>
+                    <th>
+                    MDA</th>
+                    <th>STAT</th>
+                    <th>9240266898</th>
+                    <th>mda@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>15</th>
+                    <th>
+                    ATK</th>
+                    <th rowspan="2">AGRI</th>
+                    <th>2759036052</th>
+                    <th>atk@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>16</th>
+                    <th>
+                    YSM</th>
+                    <th>9529836608</th>
+                    <th>ysm@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>17</th>
+                    <th>
+                    KNU</th>
+                    <th rowspan="2">H.SCI</th>
+                    <th>6750292958</th>
+                    <th>knu@rumc</th>
+                
+                
+                
+                </tr>
+                <tr>
+                    <th>18</th>
+                    <th>
+                   JP</th>
+                    <th>9791426653</th>
+                    <th>jp@rumc</th>
+                
+                
+                
+                </tr>
+                
+                
+                
+                
+            </table>
+           
+            
+        
+        
+        
+        
+    <br>
+    
+    
+    
+    
+    
+    
+    
+    </body>
+
+</html>
